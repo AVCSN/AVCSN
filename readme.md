@@ -5,6 +5,10 @@
 
 I'm a full-stack software engineer looking to improve myself. Looking forward to working with you!
 
+:fire: - Software Engineer at 100Devs
+
+:cityscape: - Quezon City, Metro Manila, Philippines
+
 :computer: - HTML | CSS | Javascript | Python
 
 :dove: - https://twitter.com/AVCSNdev
